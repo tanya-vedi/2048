@@ -5,6 +5,7 @@ html, body {
   color: #776E65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px;
+  min-width: 550px;
 }
 
 body {
