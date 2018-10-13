@@ -5,31 +5,8 @@ html, body {
   color: #776E65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px;
+  min-width: 550px;
 }
-
-
-/* Tablet Landscape */
-
-@media screen and (max-width: 1060px) {
-
-    #primary { width:67%; }
-
-    #secondary { width:30%; margin-left:3%;}
-
-}
-
-/* Tabled Portrait */
-
-@media screen and (max-width: 768px) {
-
-    #primary { width:100%; }
-
-    #secondary { width:100%; margin:0; border:none; }
-
-}
-
-
-
 
 body {
   margin: 80px 0;
